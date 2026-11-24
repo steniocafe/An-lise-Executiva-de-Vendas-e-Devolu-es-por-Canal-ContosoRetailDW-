@@ -1,6 +1,6 @@
 # 📊 Análise Executiva de Vendas e Devoluções por Canal (ContosoRetailDW)
 
-Projeto end-to-end de Business Intelligence desenvolvido para responder a uma demanda executiva: identificar quais canais geram maior faturamento para a empresa e onde estão concentradas as perdas financeiras com devoluções.
+Projeto de Business Intelligence desenvolvido para responder a uma demanda executiva: identificar quais canais geram maior faturamento para a empresa e onde estão concentradas as perdas financeiras com devoluções.
 
 ---
 
