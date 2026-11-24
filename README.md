@@ -27,8 +27,9 @@ A liderança solicitou um painel gerencial para responder a duas perguntas-chave
 ---
 
 <img width="477" height="120" alt="image" src="https://github.com/user-attachments/assets/0e4f791d-d0b1-4d4a-aa66-497486b93451" />
+
 ## 💻 Query SQL de Validação
-```sql
+```
 USE ContosoRetailDW;
 
 SELECT
@@ -40,4 +41,4 @@ FROM FactSales AS S
 JOIN DimChannel AS C ON C.ChannelKey = S.ChannelKey
 GROUP BY C.ChannelName
 ORDER BY SUM(S.SalesAmount) DESC;
-
+´´´
